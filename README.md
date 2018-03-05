@@ -1,2 +1,2 @@
-# Backjoon
-백준 알고리즘
+# Algorism
+알고리즘
