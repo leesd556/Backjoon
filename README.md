@@ -1,2 +1,2 @@
-# Algorism
+# Algorithm
 알고리즘
